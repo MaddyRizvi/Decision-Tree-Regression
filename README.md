@@ -57,6 +57,8 @@ python decision_tree_model.py
 
 - Prediction for level `6.5`
 - Visualization showing predicted stepwise function vs actual salaries
+- Visualising the Decision Tree Regression results (higher resolution)
+![Image](https://github.com/user-attachments/assets/1ba9a89c-c017-489c-b742-a5ccc0879cbd)
 
 ## 🤝 How to Contribute
 
