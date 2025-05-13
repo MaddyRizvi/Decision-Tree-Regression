@@ -1,5 +1,5 @@
 
-# Decision Tree Regression – Truth or Bluff
+# Decision Tree Regression 
 
 This repository demonstrates the implementation of a Decision Tree Regression model to predict salaries based on position levels using a dataset `Position_Salaries.csv`. The project includes model training, prediction, and high-resolution visualization.
 
